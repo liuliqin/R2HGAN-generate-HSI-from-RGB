@@ -1,6 +1,10 @@
 This code is for "Hyperspectral Remote Sensing Imagery Generation From RGB Images Based on Joint Discrimination".
 Please kindly cite this paper if you use this code.
 
+Liqin Liu, Sen Lei, Zhenwei Shi, Ning Zhang, and Xinzhong Zhu. 
+Hyperspectral Remote Sensing Imagery Reconstruction From RGB Images Based on Joint Discrimination. 
+IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
+
 The code is to generate hyperpsectral imagery from RGB images.
 
 Main Requirements:
@@ -19,6 +23,6 @@ Testing:
 1. new package and put training dataset in ./datasets/g5pairs/train/multi/*.tif 
 2. python pytorch_pix2pix_test.py
 
-evaluate:
+Evaluate:
 1. python performance_cal.py, get MPSNR, MRAE, RMSE, SAM, SSIM.
 
