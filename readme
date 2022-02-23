@@ -1,9 +1,15 @@
 This code is for "Hyperspectral Remote Sensing Imagery Generation From RGB Images Based on Joint Discrimination".
 Please kindly cite this paper if you use this code.
 
-Liqin Liu, Sen Lei, Zhenwei Shi, Ning Zhang, and Xinzhong Zhu. 
-Hyperspectral Remote Sensing Imagery Reconstruction From RGB Images Based on Joint Discrimination. 
-IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
+@article{liu2021hyperspectral,
+  title={Hyperspectral Remote Sensing Imagery Generation From RGB Images Based on Joint Discrimination},
+  author={Liu, Liqin and Lei, Sen and Shi, Zhenwei and Zhang, Ning and Zhu, Xinzhong},
+  journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing},
+  volume={14},
+  pages={7624--7636},
+  year={2021},
+  publisher={IEEE}
+}
 
 The code is to generate hyperpsectral imagery from RGB images.
 
